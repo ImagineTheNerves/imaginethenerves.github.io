@@ -1,6 +1,10 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
+title: ello bub
 ---
+<div class="blurb">
+	<h1>Hi there, I'm Hank Quinlan!</h1>
+	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+	<br>
+	<h3>balbabalvbsasafsadkasjfsaojfsaioj</h3>
+</div><!-- /.blurb -->
