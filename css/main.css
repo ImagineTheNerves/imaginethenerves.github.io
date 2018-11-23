@@ -61,6 +61,10 @@ nav .brand-logo > img {
   border-radius: 0 0 10px 10px!important;
 }
 
+.card-nopadding {
+  padding: 0px!important;
+}
+
 .card {
   border-radius:10px;
 }
