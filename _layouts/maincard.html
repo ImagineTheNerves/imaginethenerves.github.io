@@ -4,16 +4,16 @@
   <body class="shishu">
     {% include navbar.html %}
     <body>
-      <pre>site url: {{site.url}}</pre>
-      <pre>page url: {{page.url}}</pre>
-      <pre>test url: {{- 'blog.html' | relative_url -}}</pre>
       <div class="container">
         <div class="row">
+          <div class="col s12 card shishu-light-bg">
           {{ content }}
+          <br><br>
         </div>
       </div>
-    </body>
-    {% include footerlinks.html %}
-    {% include jsincludes.html %}
+    </div>
   </body>
+  {% include footerlinks.html %}
+  {% include jsincludes.html %}
+</body>
 </html>

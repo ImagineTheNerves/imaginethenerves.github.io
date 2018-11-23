@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: maincard
 title: About
 permalink: /about/
 ---
