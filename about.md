@@ -19,33 +19,33 @@ permalink: /about/
 				<i class="material-icons">favorite</i>
 			Thanks to:</div>
 			<div class="collapsible-body collapsible-noborder shishu-midlight-bg">
-		<pre>Shishu (For being there)</pre>
-		<pre>Ground Zero ROMs Team</pre>
-		<pre>AOSPExtended</pre>
-		<pre>ABC ROMs</pre>
-		<pre>NitrogenOS</pre>
-		<pre>AICP</pre>
-		<pre>DirtyUnicorns</pre>
-		<pre>Lukas Koller (Camera Roll dev)</pre>
-		<pre>fxckingdeathwish (for the amazing photos for wallpaper/headers)</pre>
-		<pre>OmniROM</pre>
-		<pre>CyanogenMod/LineageOS</pre>
-		<pre>PixelExperience</pre>
-		<pre>PureNexus</pre>
-		<pre>merothh</pre>
-		<pre>Resurrection Remix</pre>
-		<pre>AOSiP</pre>
-		<pre>CrDroid</pre>
-		<pre>CypherOS</pre>
-		<pre>PureKat</pre>
-		<pre>theimpulson</pre>
-		<pre>MatiHalperin</pre>
-		<pre>Project Xtended</pre>
-		<pre>Pixeldust Project</pre>
-		<pre>AquariOS</pre>
-		<pre>Alejandro Ponce (Quetzal/Calypso dev)</pre>
-		<pre>PixysOS </pre>
-		<pre>The Memedo Testers team</pre>
+		<p>Shishu (For being there)</p>
+		<p>Ground Zero ROMs Team</p>
+		<p>AOSPExtended</p>
+		<p>ABC ROMs</p>
+		<p>NitrogenOS</p>
+		<p>AICP</p>
+		<p>DirtyUnicorns</p>
+		<p>Lukas Koller (Camera Roll dev)</p>
+		<p>fxckingdeathwish (for the amazing photos for wallpaper/headers)</p>
+		<p>OmniROM</p>
+		<p>CyanogenMod/LineageOS</p>
+		<p>PixelExperience</p>
+		<p>PureNexus</p>
+		<p>merothh</p>
+		<p>Resurrection Remix</p>
+		<p>AOSiP</p>
+		<p>CrDroid</p>
+		<p>CypherOS</p>
+		<p>PureKat</p>
+		<p>theimpulson</p>
+		<p>MatiHalperin</p>
+		<p>Project Xtended</p>
+		<p>Pixeldust Project</p>
+		<p>AquariOS</p>
+		<p>Alejandro Ponce (Quetzal/Calypso dev)</p>
+		<p>PixysOS </p>
+		<p>The Memedo Testers team</p>
 			</div>
 		</li>
 	</ul>
