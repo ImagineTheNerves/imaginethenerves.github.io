@@ -4,9 +4,6 @@
   <body class="shishu">
     {% include navbar.html %}
     <body>
-      <pre>site url: {{site.url}}</pre>
-      <pre>page url: {{page.url}}</pre>
-      <pre>test url: {{- 'blog.html' | relative_url -}}</pre>
       <div class="container">
         <div class="row">
           {{ content }}
